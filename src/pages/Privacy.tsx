@@ -158,7 +158,7 @@ const Privacy = () => {
           <div className="mt-4 p-5 bg-muted/30 rounded-xl border border-border text-sm">
             <p className="font-semibold text-foreground">PivotPoint Pricing & Legal Ops</p>
             <p className="mt-1">Attn: Privacy Inquiries</p>
-            <p className="mt-1">Email: <a href="mailto:privacy@pivotpointlegalops.com" className="text-secondary hover:underline">privacy@pivotpointlegalops.com</a></p>
+            <p className="mt-1">Email: <a href="mailto:rfbrackett@pivotpointpricing.com" className="text-secondary hover:underline">rfbrackett@pivotpointpricing.com</a></p>
           </div>
         </Section>
       </main>

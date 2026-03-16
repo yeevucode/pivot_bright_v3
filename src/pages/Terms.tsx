@@ -160,7 +160,7 @@ const Terms = () => {
           <div className="mt-4 p-5 bg-muted/30 rounded-xl border border-border text-sm">
             <p className="font-semibold text-foreground">PivotPoint Pricing & Legal Ops</p>
             <p className="mt-1">Attn: Legal</p>
-            <p className="mt-1">Email: <a href="mailto:legal@pivotpointlegalops.com" className="text-secondary hover:underline">legal@pivotpointlegalops.com</a></p>
+            <p className="mt-1">Email: <a href="mailto:rfbrackett@pivotpointpricing.com" className="text-secondary hover:underline">rfbrackett@pivotpointpricing.com</a></p>
           </div>
         </Section>
       </main>
